@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Moon_75mm_Gaviota)(type KiCad)(uri ${KIPRJMOD}/Moon_75mm_Gaviota.pretty)(options "")(descr ""))
+)
