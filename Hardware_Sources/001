@@ -1,0 +1,18 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    </head>
+    <body>
+    <h1>/home/greynaga/Github/ Badge_moon/Hardware_Sources/001.sch</h1>
+    <p>mar 12 nov 2019 10:18:25 MST</p>
+    <p>Eeschema 5.1.4-e60b266~84~ubuntu18.04.1</p>
+    <p><b>Component Count:</b>16</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Datasheet</th><th>Description</th><th>Vendor</th></tr><tr><td>BT1</td><td>1</td><td>Battery_Cell</td><td>Device:Battery_Cell</td><td>~</td><td>Single-cell battery</td><td></td></tr><tr><td>D1, D2, D3, D4, D5, D6</td><td>6</td><td>LED</td><td>Device:LED</td><td>~</td><td>Light emitting diode</td><td></td></tr><tr><td>J1</td><td>1</td><td>Conn_01x02</td><td>Connector_Generic:Conn_01x02</td><td>~</td><td>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J2</td><td>1</td><td>Conn_01x06_x03</td><td>001-rescue:Conn_01x06_x03-Digispark</td><td>~</td><td></td><td></td></tr><tr><td>R1</td><td>1</td><td>R_Small</td><td>Device:R_Small</td><td>~</td><td>Resistor, small symbol</td><td></td></tr><tr><td>SW2</td><td>1</td><td>SW_Push_Dual</td><td>Switch:SW_Push_Dual</td><td>~</td><td>Push button switch, generic, symbol, four pins</td><td></td></tr><tr><td>U1</td><td>1</td><td>PCB</td><td>001-rescue:PCB-Reverse_mount_leds</td><td></td><td></td><td></td></tr><tr><td>U2</td><td>1</td><td>Firma</td><td>001-rescue:PCB-Reverse_mount_leds</td><td></td><td></td><td></td></tr><tr><td>U3</td><td>1</td><td>Oshpark_logo</td><td>001-rescue:PCB-Reverse_mount_leds</td><td></td><td></td><td></td></tr><tr><td>U4</td><td>1</td><td>Oshpark_Purple</td><td>001-rescue:PCB-Reverse_mount_leds</td><td></td><td></td><td></td></tr><tr><td>U5</td><td>1</td><td>OSHW_Silk</td><td>001-rescue:PCB-Reverse_mount_leds</td><td></td><td></td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    

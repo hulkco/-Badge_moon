@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/greynaga/Github/ Badge_moon/Hardware_Sources/001.sch</source>
+    <date>mar 12 nov 2019 10:18:25 MST</date>
+    <tool>Eeschema 5.1.4-e60b266~84~ubuntu18.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>001.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>Moon_75mm_Gaviota:SunLed_PLCC_Reverse-2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6B6DFF</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>Firma</value>
+      <footprint>Moon_75mm_Gaviota:firma_Cu_Mask</footprint>
+      <libsource lib="001-rescue" part="PCB-Reverse_mount_leds" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D927C25</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x06_x03</value>
+      <footprint>Moon_75mm_Gaviota:Digispark_SMD_Reverse</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="001-rescue" part="Conn_01x06_x03-Digispark" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA5B104</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>PCB</value>
+      <footprint>Moon_75mm_Gaviota:Moon_6_Leds_75_2</footprint>
+      <libsource lib="001-rescue" part="PCB-Reverse_mount_leds" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA40039</tstamp>
+    </comp>
+    <comp ref="BT1">
+      <value>Battery_Cell</value>
+      <footprint>Moon_75mm_Gaviota:S8211R</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA72DC3</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>Moon_75mm_Gaviota:SunLed_PLCC_Reverse-2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA2AE55</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>Moon_75mm_Gaviota:SunLed_PLCC_Reverse-2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA2C9DE</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>Moon_75mm_Gaviota:SunLed_PLCC_Reverse-2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA2B62C</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>Moon_75mm_Gaviota:SunLed_PLCC_Reverse-2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA2C1E7</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>Moon_75mm_Gaviota:SunLed_PLCC_Reverse-2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA2BBA7</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02</value>
+      <footprint>Moon_75mm_Gaviota:JST-S2B-PH-SM4-TB</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA423B6</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>Oshpark_logo</value>
+      <footprint>Moon_75mm_Gaviota:OSHpark-1-1200</footprint>
+      <libsource lib="001-rescue" part="PCB-Reverse_mount_leds" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA98B61</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>Oshpark_Purple</value>
+      <footprint>Moon_75mm_Gaviota:OSHpark-2-1800</footprint>
+      <libsource lib="001-rescue" part="PCB-Reverse_mount_leds" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA98FA3</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>OSHW_Silk</value>
+      <footprint>Symbol:OSHW-Logo2_9.8x8mm_SilkScreen</footprint>
+      <libsource lib="001-rescue" part="PCB-Reverse_mount_leds" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA99272</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>R_Small</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA74D10</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push_Dual</value>
+      <footprint>Moon_75mm_Gaviota:SW_Push_PTS647_4.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_Push_Dual" description="Push button switch, generic, symbol, four pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA7733F</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="001-rescue" part="Conn_01x06_x03-Digispark">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06_x03-Digispark</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P0_D0" type="3state"/>
+        <pin num="2" name="P1_D1" type="3state"/>
+        <pin num="3" name="P2_D2" type="3state"/>
+        <pin num="4" name="P3_D3" type="3state"/>
+        <pin num="5" name="P4_D4" type="3state"/>
+        <pin num="6" name="P5_D5" type="3state"/>
+        <pin num="7" name="VIn" type="power_in"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="5V" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="001-rescue" part="PCB-Reverse_mount_leds">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PCB-Reverse_mount_leds</field>
+      </fields>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push_Dual">
+      <description>Push button switch, generic, symbol, four pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push_Dual</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="001-rescue">
+      <uri>/home/greynaga/Github/ Badge_moon/Hardware_Sources/001-rescue.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/library/Switch.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="VCC">
+      <node ref="J1" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="J2" pin="9"/>
+      <node ref="BT1" pin="1"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="J1" pin="2"/>
+      <node ref="SW2" pin="4"/>
+      <node ref="SW2" pin="3"/>
+      <node ref="J2" pin="8"/>
+      <node ref="BT1" pin="2"/>
+    </net>
+    <net code="3" name="Net-(J2-Pad6)">
+      <node ref="J2" pin="6"/>
+    </net>
+    <net code="4" name="Net-(J2-Pad4)">
+      <node ref="J2" pin="4"/>
+    </net>
+    <net code="5" name="/PB_4">
+      <node ref="J2" pin="5"/>
+      <node ref="D5" pin="2"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="6" name="VIN">
+      <node ref="J2" pin="7"/>
+    </net>
+    <net code="7" name="/PB_2">
+      <node ref="SW2" pin="2"/>
+      <node ref="J2" pin="3"/>
+      <node ref="R1" pin="1"/>
+      <node ref="SW2" pin="1"/>
+    </net>
+    <net code="8" name="/PB_0">
+      <node ref="D5" pin="1"/>
+      <node ref="D2" pin="2"/>
+      <node ref="J2" pin="1"/>
+      <node ref="D6" pin="2"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="9" name="/PB_1">
+      <node ref="D4" pin="2"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D1" pin="2"/>
+      <node ref="J2" pin="2"/>
+    </net>
+  </nets>
+</export>
